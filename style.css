@@ -1,0 +1,71 @@
+.watch{
+    color: white;
+    text-decoration: none;
+}
+
+.btn-1{
+    width: 100px;
+    height: 45px;
+    border-radius: 10px;
+}
+
+.vedio{
+    font-size: 25px;
+}
+
+.row-1{
+    color: white;
+    padding-bottom: 97px;
+}
+
+.div-1{
+    margin-top: 60px;
+}
+
+.img-1{
+    background-image: url('https://media.istockphoto.com/id/1437816897/photo/business-woman-manager-or-human-resources-portrait-for-career-success-company-we-are-hiring.webp?b=1&s=170667a&w=0&k=20&c=YQ_j83pg9fB-HWOd1Qur3_kBmG_ot_hZty8pvoFkr6A=');
+    background-size: cover;
+    height: 450px;
+}
+
+.img-2{
+    background-image: url('https://media.istockphoto.com/id/1336695502/photo/shot-of-a-notebook-and-laptop-in-an-office.webp?b=1&s=170667a&w=0&k=20&c=_gnIAFk0KIdNn63anE3vY7rBCX51Cugk2jCvBJJ-tEI=');
+    background-size: cover;
+}
+
+.cont-1{
+    text-align: center !important;
+    width: 130px;
+    color: white;
+    height: 30px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.cont-2{
+    text-align: center !important;
+    width: 130px;
+    color: black;
+    height: 30px;
+    margin-top: 15px;
+    margin-left: 20px;
+    background-color: rgb(214, 205, 205);
+}
+
+.cont-3{
+    text-align: center !important;
+    background-color: rgb(214, 205, 205);
+    width: 130px;
+    height: 30px;
+    color: black;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.cont{
+    background-color: antiquewhite;
+}
+
+.main-div-1{
+    color: white !important;
+}
